@@ -1,0 +1,24 @@
+body{
+    padding: 30px 30px 30px 100px;
+    background-color:#eee;
+    text-align: center;
+}
+
+h4{
+    padding: 20px;
+}
+
+image{
+    padding: 20px;
+}
+
+.img-class{
+    background-color: #eee;
+}
+
+.text-class{
+    font-size: 14px;
+    width: 600px;
+    margin: auto;
+}
+
